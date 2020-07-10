@@ -1,0 +1,35 @@
+.div1{
+    display: inline-block;
+    width: 100px;
+}
+
+.div2{
+    display: inline-block;
+    width: 110px;
+}
+
+#main{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    left: 45%;
+    top: 50%;
+    text-align: center;
+    transform: translate(-50%, -50%);
+}
+
+#timerdiv{
+
+    width: 450px;
+    color: white;
+    padding: 20px;
+    background-color: burlywood;
+
+}
+#btndiv{
+
+    width: 450px;
+    padding: 20px;
+    background-color:darkblue;
+
+}
